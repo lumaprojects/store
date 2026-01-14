@@ -4,9 +4,9 @@
     "Developer": "Owen",
     "Version": "0.0.1.0",
     "Description": "Short form content app for Windows 10 Mobile",
-    "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png"
-	"DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle"
-	"FileName": "lumashorts.appxbundle"
+    "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
+	"DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle",
+	"FileName": "lumashorts.appxbundle",
   }
 ]
 
