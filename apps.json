@@ -1,16 +1,12 @@
 [
   {
-    "Name": "Luma",
-    "Developer": "Owen",
-    "Version": "0.0.1",
-    "Description": "A voice assistant for Windows 10 Mobile!",
-    "IconPath": "https://lumaprojects.github.io/store/icons/assistant.png"
-  },
-  {
     "Name": "Luma Shorts",
     "Developer": "Owen",
-    "Version": "0.1",
+    "Version": "0.0.1.0",
     "Description": "Short form content app for Windows 10 Mobile",
-    "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png"
+    "IconPath": "https://lumaprojects.github.io/store/icons/ic_fluent_camera_24_color.png"
+	"DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle"
+	"FileName": "lumashorts.appxbundle"
   }
 ]
+
