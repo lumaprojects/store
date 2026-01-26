@@ -1,0 +1,128 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* PAGE */
+body {
+  background: #0f0f0f;
+  color: #ffffff;
+}
+
+/* HEADER */
+header {
+  padding: 16px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+/* FILTER BUTTONS */
+.filters {
+  display: flex;
+  gap: 8px;
+  padding: 0 16px 16px;
+}
+
+.filters button {
+  background: #1c1c1c;
+  color: #ccc;
+  border: 1px solid #2a2a2a;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.filters button.active {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+}
+
+/* GRID */
+#appsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 14px;
+  padding: 16px;
+}
+
+/* APP CARD */
+.card {
+  background: #181818;
+  border-radius: 12px;
+  padding: 12px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.1s ease;
+}
+
+.card:hover {
+  background: #202020;
+  transform: scale(1.03);
+}
+
+/* ICON SIZE CONTROL */
+.card img {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  margin-bottom: 8px;
+}
+
+/* APP NAME */
+.card div {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* PLATFORM TAG */
+.card small {
+  color: #888;
+  font-size: 11px;
+}
+
+/* MODAL */
+
+/* MODAL APP ICON */
+.modal-content img {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 12px;
+}
+
+#appModal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#appModal.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: #151515;
+  width: 420px;
+  max-width: 90%;
+  border-radius: 14px;
+  padding: 20px;
+}
+
+/* INSTALL BUTTON */
+#installBtn {
+  display: inline-block;
+  margin-top: 14px;
+  background: #2563eb;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+}

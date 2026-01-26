@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Luma Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <h1>Luma Store</h1>
+
+  <div class="filters">
+    <button id="btnAll" class="active">All Apps</button>
+    <button id="btnW10M">Windows 10 Mobile</button>
+    <button id="btnW10">Windows 10</button>
+  </div>
+</header>
+
+<main>
+  <div id="appsGrid" class="grid"></div>
+</main>
+
+<!-- APP MODAL -->
+<div id="appModal" class="modal hidden">
+  <div class="modal-content">
+    <button id="closeModal">×</button>
+    <img id="appIcon">
+    <h2 id="appName"></h2>
+    <p id="appDeveloper"></p>
+    <p id="appVersion"></p>
+    <p id="appDescription"></p>
+    <a id="installBtn" target="_blank">Download</a>
+  </div>
+</div>
+
+<script src="store.js"></script>
+</body>
+</html>
