@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const appDescription = document.getElementById("appDescription");
     const installBtn = document.getElementById("installBtn");
     const closeModal = document.getElementById("closeModal");
+    const searchInput = document.getElementById("searchInput");
 
     const btnAll = document.getElementById("btnAll");
     const btnW10M = document.getElementById("btnW10M");
@@ -16,6 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let appsW10M = [];
     let appsW10 = [];
     let currentApps = [];
+    let filteredApps = []; // for search
 
     // Fetch mobile apps
     fetch("https://lumaprojects.github.io/store/mobile/apps.json")
@@ -52,17 +54,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function loadAll() {
         currentApps = [...appsW10M, ...appsW10];
-        renderApps(currentApps);
+        applySearch();
     }
 
     function loadW10M() {
         currentApps = appsW10M;
-        renderApps(currentApps);
+        applySearch();
     }
 
     function loadW10() {
         currentApps = appsW10;
-        renderApps(currentApps);
+        applySearch();
     }
 
     function setTab(fn, btn) {
@@ -70,11 +72,6 @@ document.addEventListener("DOMContentLoaded", () => {
         btn.classList.add("active");
         fn();
     }
-
-    // Tab buttons
-    btnAll.onclick = () => setTab(loadAll, btnAll);
-    btnW10M.onclick = () => setTab(loadW10M, btnW10M);
-    btnW10.onclick = () => setTab(loadW10, btnW10);
 
     function openApp(app) {
         appIcon.src = app.IconPath;
@@ -87,4 +84,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     closeModal.onclick = () => appModal.classList.add("hidden");
+
+    // Search
+    function applySearch() {
+        const query = searchInput.value.toLowerCase();
+        if (!query) filteredApps = currentApps;
+        else filteredApps = currentApps.filter(app =>
+            app.Name.toLowerCase().includes(query)
+        );
+        renderApps(filteredApps);
+    }
+
+    searchInput.addEventListener("input", applySearch);
+
+    // Tab buttons
+    btnAll.onclick = () => setTab(loadAll, btnAll);
+    btnW10M.onclick = () => setTab(loadW10M, btnW10M);
+    btnW10.onclick = () => setTab(loadW10, btnW10);
 });
