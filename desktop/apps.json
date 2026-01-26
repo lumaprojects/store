@@ -8,7 +8,20 @@
     "DownloadUrl": "https://lumaprojects.github.io/shorts/apps/PC/Luma%20Shorts%20v1.0%20(PC%20Webview).appx",
     "FileName": "lumashorts.appxbundle",
     "Featured": true,
-    "IsGame": false,
+    "IsGame": false
+  },
+  {
+    "Name": "Fresh Paint",
+    "Developer": "Microsoft Corporation",
+    "Version": "3.1.10383.1000",
+    "Description": "Unleash your inner creative with Fresh Paint - the ultimate canvas for your big ideas.",
+    "IconPath": "https://i.ibb.co/b5f5f7CF/fppxlogo-scale-400.png",
+    "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.FreshPaint_3.1.10383.1000_x86__8wekyb3d8bbwe.Appx",
+    "FileName": "freshpaint.appx",
+    "Featured": true,
+    "IsGame": false
   }
+
+
 ]
 
