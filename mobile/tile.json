@@ -1,6 +1,5 @@
 {
   "tiles": [
-    { "title": "New", "line1": "Old", "line2": "whatever", "image": "https://lumaprojects.github.io/shorts/apps/shorts.png" },
     { "title": "shhh...", "line1": "let's not leak", "line2": "our hard work", "image": "https://lumaprojects.github.io/store/images/store.png" },
     { "title": "Quote", "line1": "wtf", "line2": "MSN Weather", "image": "https://x83owen.github.io/test/R.png" },
     { "title": "Explore", "line1": "Windows Phone", "line2": "All in one place", "image": "https://i.ibb.co/b5f5f7CF/fppxlogo-scale-400.png" }
