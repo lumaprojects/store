@@ -1,0 +1,9 @@
+{
+  "tiles": [
+    { "title": "hi", "line1": "this is a test", "line2": "of live tiles :D" },
+    { "title": "New", "line1": "Old", "line2": "whatever" },
+    { "title": "Tip", "line1": "come on", "line2": "just work" },
+    { "title": "Quote", "line1": "wtf", "line2": "MSN Weather" },
+    { "title": "Explore", "line1": "Windows Phone", "line2": "All in one place" }
+  ]
+}
