@@ -5,7 +5,7 @@
     "Version": "0.0.1.0",
     "Description": "Short form content app for Windows 10.",
     "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
-    "DownloadUrl": "https://lumaaprojects.github.io/store/apps/lumashortsdesktop.appx",
+    "DownloadUrl": "https://lumaprojects.github.io/store/apps/lumashortsdesktop.appx",
     "FileName": "lumashorts.appxbundle",
     "Featured": true,
     "IsGame": false,
