@@ -34,17 +34,5 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
-    },
-    {
-        "Name": "Facebook",
-        "Developer": "Meta Platforms",
-        "Version": "1.0.0.0",
-        "Description": "Facebook is the world\u2019s largest online social networking service, founded in 2004 by Mark Zuckerberg and others. It allows users to create profiles, connect with friends, share photos, videos, and messages. It features a News Feed, Groups, Pages, and Marketplace, with over 3 billion users. now owned by Meta Platforms.",
-        "IconPath": "https://i.ibb.co/gbcy5Xy2/download.png",
-        "DownloadUrl": "https://lumaappxuploader.page.gd/uploads/luma_697f8ba80ffa8.appx",
-        "FileName": "facebook.appx",
-        "Featured": false,
-        "IsGame": false,
-        "IsDependency": false
-    }    
+    } 
 ]
