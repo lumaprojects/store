@@ -94,6 +94,18 @@
     "Featured": false,
     "IsGame": false,
     "IsDependency": false
-  }
+  },
+  {
+    "Name": "MyTube! Beta",
+    "Developer": "Ryken Studio",
+    "Version": "2.7.0.16",
+    "Description": "Your perfect youtube metro client!",
+    "IconPath": "https://i.ibb.co/PZWyGDs4/Screenshot-2026-02-01-183212.png",
+    "DownloadUrl": "https://lumaappxuploader.page.gd/uploads/luma_697f8e3cccb0f.appx",
+    "FileName": "mytube.appx",
+    "Featured": false,
+    "IsGame": false,
+    "IsDependency": false
+  }  
 ]
 
