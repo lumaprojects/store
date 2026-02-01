@@ -34,5 +34,17 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
-    } 
+    },
+    {
+        "Name": "Nokia Gesture touch",
+        "Developer": "Nokia Corporation",
+        "Version": "3..6.10.0",
+        "Description": "Nokia gesture touch navigation (often Android-based) replaces traditional buttons with swipes: swipe up to go home or open apps, and swipe from the edge to go back. Key motions include double-tap to wake, flipping to mute, and lifting to check the phone. Users can customize these in Settings > System > Gestures.",
+        "IconPath": "https://i.ibb.co/2Yh2gRhS/download-1.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/NokiaCorporation.Gesturestouch_3.6.10.0_arm.appx",
+        "FileName": "nokiagesturestouch.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false
+    }    
 ]

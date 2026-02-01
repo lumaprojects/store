@@ -98,8 +98,8 @@
   {
     "Name": "MyTube! Beta",
     "Developer": "Ryken Studio",
-    "Version": "2.7.0.16",
-    "Description": "Your perfect youtube metro client!",
+    "Version": "4.0.21.0",
+    "Description": "Your perfect YouTube client! REQUIRES API KEYS!",
     "IconPath": "https://i.ibb.co/PZWyGDs4/Screenshot-2026-02-01-183212.png",
     "DownloadUrl": "https://lumaprojects.github.io/store/apps/mytube.appx",
     "FileName": "mytube.appx",
