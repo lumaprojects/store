@@ -1,27 +1,38 @@
 [
-  {
-    "Name": "Luma Shorts",
-    "Developer": "Luma",
-    "Version": "0.0.1.0",
-    "Description": "Short form content app for Windows 10 Mobile",
-    "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
-    "DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle",
-    "FileName": "lumashorts.appxbundle",
-    "Featured": true,
-    "IsGame": false,
-    "IsDependency": false
-  },
-  {
-    "Name": "VLC UWP",
-    "Developer": "VideoLAN",
-    "Version": "3.2.1.0",
-    "Description": "VLC is the ultimate media player, ported to the Windows Universal Platform. ⚠ ⚠ Beware! This VLC does not feature all the features of the classic VLC! It does not support DVD or Blurays! Use the desktop version instead! ⚠⚠",
-    "IconPath": "https://i.ibb.co/HTP7L94r/Square44x44-Logo-targetsize-256-altform-unplated.png",
-    "DownloadUrl": "https://dl.dankassassin368.com/VideoLAN.VLC_3.2.1.0_neutral_~_paz6r1rewnh0a.AppxBundle",
-    "FileName": "vlcuwp.appxbundle",
-    "Featured": true,
-    "IsGame": false,
-    "IsDependency": false
-  }
+    {
+        "Name": "Luma Shorts",
+        "Developer": "Luma",
+        "Version": "0.0.1.0",
+        "Description": "Short form content app for Windows 10 Mobile",
+        "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
+        "DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle",
+        "FileName": "lumashorts.appxbundle",
+        "Featured": true,
+        "IsGame": false,
+        "IsDependency": false
+    },
+    {
+        "Name": "VLC UWP",
+        "Developer": "VideoLAN",
+        "Version": "3.2.1.0",
+        "Description": "VLC is the ultimate media player, ported to the Windows Universal Platform. \u26a0 \u26a0 Beware! This VLC does not feature all the features of the classic VLC! It does not support DVD or Blurays! Use the desktop version instead! \u26a0\u26a0",
+        "IconPath": "https://i.ibb.co/HTP7L94r/Square44x44-Logo-targetsize-256-altform-unplated.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/VideoLAN.VLC_3.2.1.0_neutral_~_paz6r1rewnh0a.AppxBundle",
+        "FileName": "vlcuwp.appxbundle",
+        "Featured": true,
+        "IsGame": false,
+        "IsDependency": false
+    },
+    {
+        "Name": "Shazam",
+        "Developer": "Shazam",
+        "Version": "4.7.8.0",
+        "Description": "Find out the music you are listening to using Shazam!",
+        "IconPath": "https://i.ibb.co/GSDzHJm/Application-Icon-scale-240.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/Shazam%20v4.7.8.0.appx",
+        "FileName": "shazam.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false
+    }
 ]
-
