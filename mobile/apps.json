@@ -34,17 +34,5 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
-    },
-    {
-        "Name": "Metro Chat",
-        "Developer": "SushiWare",
-        "Version": "1.1.1.0",
-        "Description": "AI chat client - ChatGPT, Gemini, GroqCloud",
-        "IconPath": "https://i.ibb.co/kVrFZmFY/ab50fe84e470da9eb9be59257373551b.jpg",
-        "DownloadUrl": "https://www.mediafire.com/file/qjsipkbak5p74tw\/MetroChat_v1.1.1.0.xap",
-        "FileName": "MetroChat_v1.1.1.0.xap",
-        "Featured": false,
-        "IsGame": false,
-        "IsDependency": false
     }
 ]
