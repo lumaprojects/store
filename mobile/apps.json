@@ -8,7 +8,8 @@
     "DownloadUrl": "https://lumaprojects.github.io/store/apps/test.appxbundle",
     "FileName": "lumashorts.appxbundle",
     "Featured": true,
-    "IsGame": false
+    "IsGame": false,
+    "IsDependency": false
   },
   {
     "Name": "VLC UWP",
@@ -19,7 +20,8 @@
     "DownloadUrl": "https://dl.dankassassin368.com/VideoLAN.VLC_3.2.1.0_neutral_~_paz6r1rewnh0a.AppxBundle",
     "FileName": "vlcuwp.appxbundle",
     "Featured": true,
-    "IsGame": false
+    "IsGame": false,
+    "IsDependency": false
   }
 ]
 
