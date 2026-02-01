@@ -53,6 +53,17 @@
     "FileName": "paint3d.appx",
     "Featured": false,
     "IsGame": false
+  },
+  {
+    "Name": "Minecraft for Windows",
+    "Developer": "Microsoft Studios",
+    "Version": "1.14.6005.0",
+    "Description": "Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs.",
+    "IconPath": "https://i.ibb.co/pjcjHftR/MCSquare71x71-Logo-scale-400.png",
+    "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.MinecraftUWP_1.14.6005.0_x86__8wekyb3d8bbwe.Appx",
+    "FileName": "minecraft.appx",
+    "Featured": false,
+    "IsGame": true
   }
 ]
 
