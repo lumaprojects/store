@@ -1,9 +1,9 @@
 {
   "tiles": [
-    { "title": "hi", "line1": "this is a test", "line2": "of live tiles :D" },
-    { "title": "New", "line1": "Old", "line2": "whatever" },
-    { "title": "shhh...", "line1": "let's not leak", "line2": "our hard work" },
-    { "title": "Quote", "line1": "wtf", "line2": "MSN Weather" },
+    { "title": "Featured App", "line1": "Luma Shorts", "line2": "a Short form content app for Windows 10." },
+    { "title": "Featured App", "line1": "Fresh Paint", "line2": "Unleash your inner creative with Fresh Paint - the ultimate canvas for your big ideas." },
+    { "title": "Featured App", "line1": "VLC UWP", "line2": "VLC is the ultimate media player, ported to the Windows Universal Platform." },
+    { "title": "Featured App", "line1": "BrowserQuest", "line2": "BrowserQuest is a small multiplayer game inviting you to explore a world of adventure from your Windows device." },
     { "title": "Explore", "line1": "apps", "line2": "and games" }
   ]
 }
