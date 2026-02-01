@@ -32,7 +32,7 @@
     "Featured": true,
     "IsGame": false
   },
-    {
+  {
     "Name": "BrowserQuest",
     "Developer": "Mads and Peter Sandberg Brun",
     "Version": "2.6.2.0",
@@ -42,6 +42,17 @@
     "FileName": "browserquest.appx",
     "Featured": true,
     "IsGame": true
+  },
+  {
+    "Name": "Paint 3D",
+    "Developer": "Microsoft Corporation",
+    "Version": "6.1907.29027.0",
+    "Description": "Whether you’re an artist or just want to try out some doodles–Paint 3D makes it easy to unleash your creativity and bring your ideas to life. Classic Paint has been reimagined, with an updated look and feel and a ton of new brushes and tools. And now, create in every dimension. Make 2D masterpieces",
+    "IconPath": "https://i.ibb.co/DDDJvRX0/Paint-Large-Tile-scale-400.png",
+    "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe.appx",
+    "FileName": "paint3d.appx",
+    "Featured": false,
+    "IsGame": false
   }
 ]
 
