@@ -109,7 +109,7 @@
     },
     {
         "Name": "Microsoft VCLibs 140.00 x86",
-        "Developer": "Microsoft corporation",
+        "Developer": "Microsoft Corporation",
         "Version": "14.0.33519.0 x86",
         "Description": "This is needed to install other applications on the store.",
         "IconPath": "https://i.ibb.co/cSMjXpQR/Screenshot-2026-02-01-201558.png",
@@ -120,7 +120,7 @@
     },
     {
         "Name": "Microsoft VCLibs 140.00 UWP desktop x86",
-        "Developer": "Microsoft corporation",
+        "Developer": "Microsoft Corporation",
         "Version": "14.0.33728.0_x86",
         "Description": "This is needed to install other apps on the store.",
         "IconPath": "https://i.ibb.co/cSMjXpQR/Screenshot-2026-02-01-201558.png",
@@ -131,7 +131,7 @@
     },
     {
         "Name": "Microsoft VCLibs 140.00 x64",
-        "Developer": "Microsoft corporation",
+        "Developer": "Microsoft Corporation",
         "Version": "14.0.33519.0",
         "Description": "This is needed to install other applications on the store.",
         "IconPath": "https://i.ibb.co/cSMjXpQR/Screenshot-2026-02-01-201558.png",
