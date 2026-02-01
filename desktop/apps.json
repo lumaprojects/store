@@ -75,6 +75,17 @@
     "FileName": "hillclimbracing.appxbundle",
     "Featured": false,
     "IsGame": true
+  },
+  {
+    "Name": "MSN Weather",
+    "Developer": "Microsoft Corporation",
+    "Version": "4.6.169.0",
+    "Description": "Check accurate forecast, weather details, forecast for the past year and more with MSN Weather app. It even shows the live tile for your home city, so you don't have to open the app everytime. Patched with newRetiled, credit to migbrunluz. App is for 1511+.",
+    "IconPath": "https://i.ibb.co/DHVR3hyG/Weather-win10.png",
+    "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx",
+    "FileName": "msnweather.appx",
+    "Featured": false,
+    "IsGame": true
   }
 ]
 
