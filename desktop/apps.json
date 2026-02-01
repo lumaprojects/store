@@ -64,6 +64,17 @@
     "FileName": "minecraft.appx",
     "Featured": false,
     "IsGame": true
+  },
+  {
+    "Name": "Hill Climb Racing",
+    "Developer": "Fingersoft",
+    "Version": "1.41.1.0",
+    "Description": "One of the most addictive and entertaining physics based driving game ever made! And it's free! Meet Newton Bill, the young aspiring uphill racer. He is about to embark on a journey that takes him to where no ride has ever been before. With little respect to the laws of physics",
+    "IconPath": "https://lumaprojects.github.io/store/icons/I6LbwAai-1000154056.png",
+    "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%2010%20APPX%20Files/Games/Hill%20Climb%20Racing/FINGERSOFT.HILLCLIMBRACING_1.41.1.0_neutral_~_r6rtpscs7gwyg.appxbundle",
+    "FileName": "hillclimbracing.appxbundle",
+    "Featured": false,
+    "IsGame": true
   }
 ]
 
