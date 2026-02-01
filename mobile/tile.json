@@ -1,8 +1,8 @@
 {
   "tiles": [
     { "title": "hi", "line1": "this is a test", "line2": "of live tiles :D" },
-    { "title": "Featured App", "line1": "Luma Shorts", "line2": "Short form content app for Windows 10 Mobile." },
-    { "title": "Featured App", "line1": "VLC UWP", "line2": "VLC is the ultimate media player, ported to the Windows Universal Platform." },
+    { "title": "Featured App", "line1": "Luma Shorts", "line2": "Short form content app" },
+    { "title": "Featured App", "line1": "VLC UWP", "line2": "VLC is the ultimate media player" },
     { "title": "Quote", "line1": "wtf", "line2": "MSN Weather" },
     { "title": "Explore", "line1": "Windows Phone Apps", "line2": "All in one place" }
   ]
