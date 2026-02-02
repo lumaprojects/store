@@ -46,5 +46,17 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
-    }    
+    },
+    {
+        "Name": "Whatsapp web client for W10M",
+        "Developer": "Aluxer Apps",
+        "Version": "2.2.38.0",
+        "Description": "a literal whatsapp for windows phone",
+        "IconPath": "https://i.ibb.co/Lh1VP8jg/download.jpg",
+        "DownloadUrl": "https://dl.dankassassin368.com/Whatsapp%20Webclient%20W10M.appx",
+        "FileName": "whatsapp.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false
+    }
 ]
