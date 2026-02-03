@@ -187,5 +187,17 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": true
-    }
+    },
+    {
+        "Name": "PosXP",
+        "Developer": "Alberto Rivelli",
+        "Version": "1.14.29.0",
+        "Description": "Cash register POS software for bars and small shops. Very simple to use and fast.",
+        "IconPath": "https://i.ibb.co/mF2w56rp/Logo.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%2010%20APPX%20Files/Apps/PosXP/620AlbertoRivelli.PosXP_1.14.29.0_x86__hnskygdk5bh62.appx",
+        "FileName": "PosXP_x86.Appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false
+    }    
 ]
