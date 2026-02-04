@@ -58,5 +58,19 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
+    },
+    {
+        "Name": "2048!",
+        "Developer": "Slytery",
+        "Version": "1.9.3.0",
+        "Description": "In 2048, the goal is to slide numbered tiles on a 4x4 grid to combine them and reach the 2048 tile.",
+        "IconPath": "https://i.ibb.co/6J05VSB8/Screenshot-2026-02-04-090426.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/2048%21.appx",
+        "FileName": "2048.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "Platform": "Windows 10 Mobile",
+        "Approved": true
     }
 ]
