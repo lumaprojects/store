@@ -69,8 +69,18 @@
         "FileName": "2048.appx",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false,
-        "Platform": "Windows 10 Mobile",
-        "Approved": true
-    }
+        "IsDependency": false
+    },
+    {
+        "Name": "LimeStore (Patched)",
+        "Developer": "LimeReviveTeam, Owen",
+        "Version": "0.0.1.0",
+        "Description": "A app store for W10M that has been patched to use Luma Store for it's App List",
+        "IconPath": "https://lumaprojects.github.io/store/icons/limestore.png",
+        "DownloadUrl": "https://lumaprojects.github.io/store/apps/LimeStorePatchedv1.appx",
+        "FileName": "LimeStorePatched.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false
+    }    
 ]
