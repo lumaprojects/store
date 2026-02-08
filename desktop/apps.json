@@ -2,7 +2,7 @@
     {
         "Name": "Luma Shorts",
         "Developer": "Luma",
-        "Version": "0.0.1.0",
+        "Version": "1.0.0.0",
         "Description": "a Short form content app for Windows 10.",
         "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
         "DownloadUrl": "https://lumaappxuploader.page.gd/uploads/luma_697eb9a11ad47.appx",
