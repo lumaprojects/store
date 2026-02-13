@@ -9,7 +9,8 @@
         "FileName": "lumashorts.appxbundle",
         "Featured": true,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     },
     {
         "Name": "VLC UWP",
@@ -21,7 +22,8 @@
         "FileName": "vlcuwp.appxbundle",
         "Featured": true,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     },
     {
         "Name": "Shazam",
@@ -33,7 +35,8 @@
         "FileName": "shazam.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Nokia Gesture touch",
@@ -45,7 +48,8 @@
         "FileName": "nokiagesturetouch.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Whatsapp web client for W10M",
@@ -57,7 +61,8 @@
         "FileName": "whatsapp.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "2048!",
@@ -69,7 +74,8 @@
         "FileName": "2048.appx",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "LimeStore (Patched)",
@@ -81,7 +87,8 @@
         "FileName": "LimeStorePatched.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Flappy Bird",
@@ -93,6 +100,7 @@
         "FileName": "28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     }   
 ]

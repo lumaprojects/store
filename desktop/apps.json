@@ -9,7 +9,8 @@
         "FileName": "lumashorts.appxbundle",
         "Featured": true,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     },
     {
         "Name": "Fresh Paint",
@@ -21,7 +22,8 @@
         "FileName": "freshpaint.appx",
         "Featured": true,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "VLC UWP",
@@ -33,7 +35,8 @@
         "FileName": "vlcuwp.appxbundle",
         "Featured": true,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     },
     {
         "Name": "BrowserQuest",
@@ -45,7 +48,8 @@
         "FileName": "browserquest.appx",
         "Featured": true,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Paint 3D",
@@ -57,7 +61,8 @@
         "FileName": "paint3d.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Minecraft for Windows",
@@ -69,7 +74,8 @@
         "FileName": "minecraft.appx",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     },
     {
         "Name": "Hill Climb Racing",
@@ -81,7 +87,8 @@
         "FileName": "hillclimbracing.appxbundle",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "MSN Weather",
@@ -93,7 +100,8 @@
         "FileName": "msnweather.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Netflix",
@@ -105,7 +113,8 @@
         "FileName": "netflix.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft VCLibs 140.00 x86",
@@ -116,7 +125,8 @@
         "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe.Appx",
         "FileName": "Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe.Appx",
         "Featured": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft VCLibs 140.00 UWP desktop x86",
@@ -127,7 +137,8 @@
         "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x86__8wekyb3d8bbwe.Appx",
         "FileName": "Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x86__8wekyb3d8bbwe.Appx",
         "Featured": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft VCLibs 140.00 x64",
@@ -138,7 +149,8 @@
         "DownloadUrl": "https://dl.dankassassin368.com/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx",
         "FileName": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx",
         "Featured": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft VCLibs 140.00 UWP desktop x86",
@@ -150,7 +162,8 @@
         "FileName": "Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x86__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft Win JS 2.0",
@@ -162,7 +175,8 @@
         "FileName": "Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft Win JS 1.0",
@@ -174,7 +188,8 @@
         "FileName": "Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "Microsoft VCLibs 140.00 UWP desktop x64",
@@ -186,7 +201,8 @@
         "FileName": "Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": true
+        "IsDependency": true,
+        "AvailableOn": false
     },
     {
         "Name": "PosXP",
@@ -198,7 +214,8 @@
         "FileName": "PosXP_x86.Appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "MyTube! Beta",
@@ -210,7 +227,8 @@
         "FileName": "mytube.appx",
         "Featured": false,
         "IsGame": false,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Doodle Jump",
@@ -222,7 +240,8 @@
         "FileName": "DoodleJump_1.0.0.0_x86__xygddxjqvswne.appx",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Disney Crossy Road",
@@ -234,7 +253,8 @@
         "FileName": "Disney.DisneyCrossyRoad_2.8.1.3_x86__6rarf9sa4v8jt.appx",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": false
     },
     {
         "Name": "Flappy Bird",
@@ -246,6 +266,7 @@
         "FileName": "28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
         "Featured": false,
         "IsGame": true,
-        "IsDependency": false
+        "IsDependency": false,
+        "AvailableOn": true
     }           
 ]
