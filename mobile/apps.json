@@ -82,5 +82,17 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false
-    }    
+    },
+    {
+        "Name": "Flappy Bird",
+        "Developer": "Saraf",
+        "Version": "2.2.0.0",
+        "Description": "a addicting game.",
+        "IconPath": "https://lumaprojects.github.io/store/icons/flappybird.png",
+        "DownloadUrl": "https://appxboxdl.dankassassin368.com/APPX/Windows%2010%20APPX%20Files/Games/Flappy%20Bird/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
+        "FileName": "28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false
+    }   
 ]

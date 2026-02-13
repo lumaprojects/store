@@ -223,5 +223,29 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false
+    },
+    {
+        "Name": "Disney Crossy Road",
+        "Developer": "Disney",
+        "Version": "2.8.1.3",
+        "Description": "Disney Crossy Road is a new version of the original Crossy Road, featuring all your favorite Disney characters. There are over a hundred different characters available, from movies like Toy Story, Zootopia, The Lion King, The Haunted Mansion, Tangled, Wreck-It Ralph, and many others.",
+        "IconPath": "https://lumaprojects.github.io/store/icons/rrDcTRXV-1000154112.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%2010%20APPX%20Files/Games/Disney%20Crossy%20Road/Disney.DisneyCrossyRoad_2.8.1.3_x86__6rarf9sa4v8jt.appx",
+        "FileName": "Disney.DisneyCrossyRoad_2.8.1.3_x86__6rarf9sa4v8jt.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false
+    },
+    {
+        "Name": "Flappy Bird",
+        "Developer": "Saraf",
+        "Version": "2.2.0.0",
+        "Description": "a addicting game.",
+        "IconPath": "https://lumaprojects.github.io/store/icons/flappybird.png",
+        "DownloadUrl": "https://appxboxdl.dankassassin368.com/APPX/Windows%2010%20APPX%20Files/Games/Flappy%20Bird/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
+        "FileName": "28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.appxbundle",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false
     }           
 ]
