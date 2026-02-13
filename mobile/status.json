@@ -1,4 +1,8 @@
 {
   "latestVersion": "0.1.1.0",
-  "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreMobile.appx"
+  "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreMobile.appx",
+  "updateRequired": false,
+  "changelog": [
+    "testing of new changelog"
+  ]
 }
