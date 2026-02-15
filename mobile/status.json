@@ -3,6 +3,8 @@
   "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreMobile.appx",
   "updateRequired": false,
   "changelog": [
-    "testing of new changelog"
+    "Added Accounts",
+    "Added Reviews",
+    "Full Release"
   ]
 }

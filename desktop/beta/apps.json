@@ -11,6 +11,7 @@
         "Featured": true,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": true,
         "AvailableOn": true
     },
     {
@@ -25,6 +26,7 @@
         "Featured": true,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -39,6 +41,7 @@
         "Featured": true,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": true
     },
     {
@@ -53,6 +56,7 @@
         "Featured": true,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -67,6 +71,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -81,6 +86,7 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": true
     },
     {
@@ -95,6 +101,7 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -109,6 +116,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -123,6 +131,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -136,6 +145,7 @@
         "FileName": "Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -149,6 +159,7 @@
         "FileName": "Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x86__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -162,6 +173,7 @@
         "FileName": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx",
         "Featured": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -176,6 +188,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -190,6 +203,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -204,6 +218,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": true,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -218,6 +233,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -232,6 +248,7 @@
         "Featured": false,
         "IsGame": false,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -246,6 +263,7 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -260,6 +278,7 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": false
     },
     {
@@ -274,6 +293,7 @@
         "Featured": false,
         "IsGame": true,
         "IsDependency": false,
+        "IsExclusive": false,
         "AvailableOn": true
     }           
 ]
