@@ -1,5 +1,6 @@
 [
     {
+        "Id": "lumaprojects.shorts",
         "Name": "Luma Shorts",
         "Developer": "Luma",
         "Version": "0.0.1.0",
@@ -13,6 +14,7 @@
         "AvailableOn": true
     },
     {
+        "Id": "videolan.vlc",
         "Name": "VLC UWP",
         "Developer": "VideoLAN",
         "Version": "3.2.1.0",
@@ -25,7 +27,8 @@
         "IsDependency": false,
         "AvailableOn": true
     },
-    {        
+    {
+       "Id": "shazam.shazam",        
         "Name": "Shazam",
         "Developer": "Shazam",
         "Version": "4.7.8.0",
@@ -38,7 +41,8 @@
         "IsDependency": false,
         "AvailableOn": false
     },
-    {      
+    {
+        "Id": "nokia.gesturetouch",      
         "Name": "Nokia Gesture touch",
         "Developer": "Nokia Corporation",
         "Version": "3.6.10.0",
@@ -51,7 +55,8 @@
         "IsDependency": false,
         "AvailableOn": false
     },
-    {     
+    {
+        "Id": "aluxer.whatsapp",      
         "Name": "Whatsapp web client for W10M",
         "Developer": "Aluxer Apps",
         "Version": "2.2.38.0",
@@ -64,7 +69,8 @@
         "IsDependency": false,
         "AvailableOn": false
     },
-    {       
+    {
+        "Id": "slytery.2048",        
         "Name": "2048!",
         "Developer": "Slytery",
         "Version": "1.9.3.0",
@@ -78,6 +84,7 @@
         "AvailableOn": false
     },
     {
+        "Id": "lumaprojects.limestore", 
         "Name": "LimeStore (Patched)",
         "Developer": "LimeReviveTeam, Owen",
         "Version": "0.0.1.0",
@@ -90,7 +97,8 @@
         "IsDependency": false,
         "AvailableOn": false
     },
-    {        
+    {
+        "Id": "saraf.flappybird",         
         "Name": "Flappy Bird",
         "Developer": "Saraf",
         "Version": "2.2.0.0",
