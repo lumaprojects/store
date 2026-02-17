@@ -1,9 +1,9 @@
 {
   "tiles": [
-    { "title": "Featured App", "line1": "Luma Shorts", "line2": "a Short form content app" },
-    { "title": "Featured App", "line1": "Fresh Paint", "line2": "Unleash your inner creative" },
-    { "title": "Featured App", "line1": "VLC UWP", "line2": "VLC is the ultimate media player" },
-    { "title": "Featured Game", "line1": "BrowserQuest", "line2": "a small multiplayer game." },
+    { "id": "lumaprojects.shorts", "title": "Featured App", "line1": "Luma Shorts", "line2": "a Short form content app" },
+    { "id": "microsoft.freshpaint", "title": "Featured App", "line1": "Fresh Paint", "line2": "Unleash your inner creative" },
+    { "id": "videolan.vlc", "title": "Featured App", "line1": "VLC UWP", "line2": "VLC is the ultimate media player" },
+    { "id": "mads.browserquest", "title": "Featured Game", "line1": "BrowserQuest", "line2": "a small multiplayer game." },
     { "title": "Explore", "line1": "apps", "line2": "and games" }
   ]
 }
