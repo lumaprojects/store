@@ -249,7 +249,7 @@
         "IsGame": false,
         "IsDependency": false,
         "IsExclusive": false,
-        "AvailableOn": false
+        "AvailableOn": true
     },
     {
         "Id": "limasky.doodlejump",
@@ -295,5 +295,95 @@
         "IsDependency": false,
         "IsExclusive": false,
         "AvailableOn": true
-    }           
+    },
+    {
+        "Id": "gameinsight.transportempire",
+        "Name": "Transport Empire",
+        "Developer": "GAME INSIGHT HUB",
+        "Version": "3.0.38.0",
+        "Description": "Transport Empire is a real-time strategy management game where players have to build a transport empire, constructing commercial networks, mines, factories, and much more.\n\nYour aim in Transport Empire is to build the biggest commercial network in the world with a steampunk aesthetic. To achieve tha",
+        "IconPath": "https://lumaprojects.github.io/store/icons/YznXfqXB-1000154107.jpg",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%2010%20APPX%20Files/Games/Transport%20Empire/0EB8BD08.TransportEmpire_3.0.38.0_neutral_~_erk4rrwmt7jyt.appxbundle",
+        "FileName": "transportempire.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "7digitalltd.7digitalmusicstore",
+        "Name": "7digital Music Store",
+        "Developer": "7digitalLtd",
+        "Version": "2.1.10.3",
+        "Description": "7digital Music Store emerges as a comprehensive app for high-quality music enthusiasts, offering an expansive library of over 40 million tracks across diverse genres. This globally available app extends its reach to music aficionados in 42 countries, delivering an experience characterized by fairnes",
+        "IconPath": "https://lumaprojects.github.io/store/icons/b34qM7q8-1000154113.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%2010%20APPX%20Files/Apps/7digital%20Music%20Store/7digitalLtd.7digitalMusicStore_2.1.10.3_x86__qv1vc61z2t2b4.appx",
+        "FileName": "7digitalmusicstore.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "zeptolab.cuttherope",
+        "Name": "Cut the Rope",
+        "Developer": "ZeptoLab",
+        "Version": "1.2.0.43",
+        "Description": "Get ready to feed the adorable Om Nom in Cut The Rope, a mind-bending puzzle game packed with levels of fun! Your task? To cut ropes in just the right way to deliver candy to Om Nom's mouth. Each level brings a new challenge, featuring various mechanics and obstacles. From gravity-defying swings to",
+        "IconPath": "https://lumaprojects.github.io/store/icons/VnpOXSdk-1000154115.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Cut%20The%20Rope/x86/8.1/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx",
+        "FileName": "cuttherope.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "gamehive.beattheboss2",
+        "Name": "Beat the Boss 2",
+        "Developer": "GameHive",
+        "Version": "2.3.0.3",
+        "Description": "",
+        "IconPath": "https://lumaprojects.github.io/store/icons/8WvwEEYk-1000154117.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Apps/Beat%20The%20Boss%202/2.3.0.3/x86/GameHive.BeatTheBoss2_2.3.0.3_x86__2snrr3jr3f292.Appx",
+        "FileName": "beattheboss2.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "outfit7.talkingginger",
+        "Name": "Talking Ginger",
+        "Developer": "Outfit7",
+        "Version": "2.2.5.0",
+        "Description": "",
+        "IconPath": "https://lumaprojects.github.io/store/icons/LhEiIzol-1000154122.png",
+        "DownloadUrl": "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Talking%20Ginger/app.appx",
+        "FileName": "talkingginger.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "randomsaladgamesllc.dominoes",
+        "Name": "Dominoes",
+        "Developer": "Random Salad Games LLC",
+        "Version": "4.3.29.0",
+        "Description": "Play the BEST dominoes game for Windows today!\n\nEnjoy the simple pleasures of this classic game on your computer, laptop, or tablet. Play 3 classic game modes (Muggins, Block, and Draw) against a clever computer opponent. Custom themes and backgrounds round out this spectacular game.",
+        "IconPath": "https://lumaprojects.github.io/store/icons/HNJhbHf7-Logo.scale-200.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/Dominoes.UWP_4.3.29.0_x64.appx",
+        "FileName": "dominoes.appx",
+        "Featured": false,
+        "IsGame": true,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    }                       
 ]

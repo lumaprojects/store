@@ -118,5 +118,35 @@
         "IsDependency": false,
         "IsExclusive": false,
         "AvailableOn": true
-    }   
+    },
+    {
+        "Id": "ryken.mytubebeta",
+        "Name": "myTube! Beta",
+        "Developer": "Ryken Studio",
+        "Version": "4.0.21.0",
+        "Description": "Watch YouTube videos on your Lumia device.",
+        "IconPath": "https://i.ibb.co/PZWyGDs4/Screenshot-2026-02-01-183212.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/myTubeBeta_4.0.21.0_arm.Appx",
+        "FileName": "mytube!beta.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": true
+    },
+    {
+        "Id": "maycondevloper.microsoftedgeunofficial",
+        "Name": "Microsoft Edge Unofficial",
+        "Developer": "Maycon Devloper",
+        "Version": "1.0.2.5",
+        "Description": "Microsoft Edge for Windows Phone",
+        "IconPath": "https://lumaprojects.github.io/store/icons/DecV6P0t-SmallLogo.png",
+        "DownloadUrl": "https://dl.dankassassin368.com/Microsoft%20Edge%20Unofficial.appx",
+        "FileName": "microsoftedgeunofficial.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    }           
 ]
