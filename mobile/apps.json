@@ -330,21 +330,6 @@
         "AvailableOn": false
     },
     {
-        "Id": "vlad.w10mtips",
-        "Name": "W10M Tips & More Blog",
-        "Developer": "Vlad",
-        "Version": "1.0.1.0",
-        "Description": "inactive blog i found online that has a appx",
-        "IconPath": "https://lumaprojects.github.io/store/icons/sonca.png",
-        "DownloadUrl": "https://github.com/lumaprojects/store/releases/download/apps/W10M.Tips.And.More.Blog_1.0.1.0_AnyCPU.appxbundle",
-        "FileName": "w10mtipsandmoreblog.appxbundle",
-        "Featured": false,
-        "IsGame": false,
-        "IsDependency": false,
-        "IsExclusive": false,
-        "AvailableOn": false
-    },
-    {
         "Id": "wptechnology.wattpad",
         "Name": "Wattpad: Free Books and Stories",
         "Developer": "WP Technology Inc",
