@@ -6,7 +6,7 @@
         "Version": "1.0.0.0",
         "Description": "a Short form content app for Windows 10. uses WebView so it might not be compatible with certain builds.",
         "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
-        "DownloadUrl": "https://lumaappxuploader.page.gd/uploads/luma_697eb9a11ad47.appx",
+        "DownloadUrl": "https://lumaprojects.github.io/store/apps/lumashortsdesktop.appx",
         "FileName": "lumashorts.appxbundle",
         "Featured": true,
         "IsGame": false,
