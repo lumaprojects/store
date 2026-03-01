@@ -21,7 +21,7 @@
         "Version": "3.2.1.0",
         "Description": "VLC is the ultimate media player, ported to the Windows Universal Platform. \u26a0 \u26a0 Beware! This VLC does not feature all the features of the classic VLC! It does not support DVD or Blurays! Use the desktop version instead! \u26a0\u26a0",
         "IconPath": "https://i.ibb.co/HTP7L94r/Square44x44-Logo-targetsize-256-altform-unplated.png",
-        "DownloadUrl": "https://dl.dankassassin368.com/VideoLAN.VLC_3.2.1.0_neutral_~_paz6r1rewnh0a.AppxBundle",
+        "DownloadUrl": "https://github.com/lumaprojects/store/releases/download/apps/VideoLAN.VLC_3.2.1.0_neutral_~_paz6r1rewnh0a.AppxBundle",
         "FileName": "vlcuwp.appxbundle",
         "Featured": true,
         "IsGame": false,
