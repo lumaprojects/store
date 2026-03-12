@@ -400,5 +400,35 @@
         "IsDependency": false,
         "IsExclusive": false,
         "AvailableOn": true
-    }                            
+    },
+    {
+        "Id": "x9b2kq",
+        "Name": "Perfect PDF Professional",
+        "Developer": "softXpansion",
+        "Version": "14.1.2.0",
+        "Description": "Perfect PDF Professional is comprehensive and pure UWP application for processing PDF files across platforms and devices. It is a power and user-friendly creator and editor, converter and optimizer, form designer and document layouter. The application can create new documents, scan paper documents, import multiple formats, combine several files in one document, make and layout the interactive forms, optimize and modify the document structure, decorate pages, process links, bookmarks, outline structure and comment the content, split documents and export them to multiple formats, digitally sign and encrypt your PDF files as well. The application can open - display, print and search many other files and eBooks: XPS, OXPS, EPUB, MOBI, FB2, text and image files. All these formats (except eBooks) can be saved as the PDF files. It can share PDF and XPS files with other UWP apps. The application provides quick and power search in files and eBooks, it enables you to instantly find words and phrases across multiple files (all supported formats) and folders. The application provides multiview user interface (multiple files can be processed in the individual windows). Different UI themes (including contrast themes and night-reading mode) are available. For editing of static content on the pages, you need Perfect PDF Ultimate or Perfect PDF Editor.",
+        "IconPath": "https://store-images.s-microsoft.com/image/apps.26377.9007199266371477.9be5c8b4-b3c3-4ed2-bd3b-3e683dce9e4d.5d67c2f4-7ade-4e30-9db8-6f98047fa1db",
+        "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%2010%20APPX%20Files/Apps/Perfect%20PDF%20Professional/14.1.2.0/x86/softXpansion.PerfectPDF_14.1.2.0_x86__v5pctc89tt44g.appx",
+        "FileName": "softXpansion.PerfectPDF_14.1.2.0_x86__v5pctc89tt44g.appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    },
+    {
+        "Id": "f4k7p9",
+        "Name": "Files&Folders Pro",
+        "Developer": "Boo Studio LLC",
+        "Version": "1.1.0.13",
+        "Description": "Files&Folders is a fully functional file manager. Manage your files and folders, extract archives, watch videos, view pictures and listen to music. App features: \u2022 file and folder options (copying, moving, renaming, deleting) \u2022 ability to launch executable files on Desktop family devices (desktops, laptops, tablets). In Windows 10 S, you can only launch executable files that are allowed by system. \u2022 opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...) \u2022 ability to Extract Here with the application from the Windows Explorer's context menu. \u2022 built-in viewer and media player (jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov, mkv) \u2022 support .nef files (only on Desktop devices) \u2022 built-in document editor (doc, docx, rtf, txt ) for all devices excluding Windows 10 Mobile \u2022 audio playback in the background \u2022 OneDrive support \u2022 FTP support \u2022 snapped mode support \u2022 adding folders to Favorites and pinning them to the Start Screen \u2022 charms support: Search and Share \u2022 operating with the system Clipboard (copying to Windows Explorer) \u2022 themes and backgrounds, Bing wallpaper \u2022 video and image preview \u2022 autorun when inserting portable devices and flash drives \u2022 hotkey commands",
+        "IconPath": "https://store-images.s-microsoft.com/image/apps.43527.9007199266251985.540bab91-d9ff-42b4-b26c-2aff382580e2.5612c48b-9849-47ee-84ab-5682323b8db6",
+        "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps\/Files&Folders%20Pro/1.1.0.13/x86/BooStudioLLC.FilesFoldersNew_1.1.0.13_x86__b6e429xa66pga.Appx",
+        "FileName": "BooStudioLLC.FilesFoldersNew_1.1.0.13_x86__b6e429xa66pga.Appx",
+        "Featured": false,
+        "IsGame": false,
+        "IsDependency": false,
+        "IsExclusive": false,
+        "AvailableOn": false
+    }                         
 ]
