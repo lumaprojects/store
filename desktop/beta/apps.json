@@ -252,21 +252,6 @@
         "AvailableOn": true
     },
     {
-        "Id": "limasky.doodlejump",
-        "Name": "Doodle Jump",
-        "Developer": "Lima Sky",
-        "Version": "1.0.0.0",
-        "Description": "Doodle Jump is now for Windows 10!",
-        "IconPath": "https://dankassassin368.com/random/icons/89d0a8d2aaf86dc3c86498b7af6d0083.jpg",
-        "DownloadUrl": "https://dl.dankassassin368.com/DoodleJump_1.0.0.0_x86__xygddxjqvswne.appx",
-        "FileName": "DoodleJump_1.0.0.0_x86__xygddxjqvswne.appx",
-        "Featured": false,
-        "IsGame": true,
-        "IsDependency": false,
-        "IsExclusive": false,
-        "AvailableOn": false
-    },
-    {
         "Id": "disney.disneycrossyroad",
         "Name": "Disney Crossy Road",
         "Developer": "Disney",
