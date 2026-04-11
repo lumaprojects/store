@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>redirecting</title>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const appId = urlParams.get('id');
+        if (appId) {
+            window.location.href = "luma-store://app/" + appId;
+        }
+        setTimeout(() => { window.close(); }, 3000);
+    </script>
+</head>
+<body>
+    <p>you search it, we find it! (hint: if you are looking at this early, this won't work, same goes for builds before 0.3.0)</p>
+</body>
+</html>
