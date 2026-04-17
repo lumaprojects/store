@@ -3,7 +3,7 @@
         "Id": "lumaprojects.shorts",         
         "Name": "Luma Shorts",
         "Developer": "Luma",
-        "Version": "1.0.0.0",
+        "Version": "1.0.1.0",
         "Description": "a Short form content app for Windows 10. uses WebView so it might not be compatible with certain builds.",
         "IconPath": "https://lumaprojects.github.io/store/icons/shorts.png",
         "DownloadUrl": "https://lumaprojects.github.io/store/apps/lumashortsdesktop.appx",
