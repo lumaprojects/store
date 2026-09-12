@@ -1,10 +1,15 @@
 {
-  "latestVersion": "0.2.0.0",
+  "latestVersion": "0.3.0.0",
   "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreDesktop.appxbundle",
-  "updateRequired": false,
+  "updateRequired": true,
   "changelog": [
-    "Added Accounts",
-    "Added Reviews",
-    "Full Release"
+    "Updated the Accounts & Review system!",
+    "Added a new Downloads manager!",
+    "New categories",
+    "Removed the Exclusives tab (as there was no exclusives)",
+    "Moved to https://lumaprojects.dankassassin368.com",
+    "Added Localization!",
+    "Removed the in-app uploader"
   ]
+
 }
