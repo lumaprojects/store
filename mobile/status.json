@@ -1,6 +1,6 @@
 {
   "latestVersion": "0.3.0.0",
-  "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreMobile.appx",
+  "downloadUrl": "https://lumaprojects.github.io/store/apps/LumaStoreMobile.appxbundle",
   "updateRequired": true,
   "changelog": [
     "Updated the Accounts & Review system!",
